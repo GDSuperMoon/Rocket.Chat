@@ -439,3 +439,5 @@ Rocket.Chat will be free forever, but you can help us speed up the development!
 
 
 [BountySource](https://www.bountysource.com/teams/rocketchat)
+
+[![Run on Repl.it](https://repl.it/badge/github/RocketChat/Rocket.Chat)](https://repl.it/github/RocketChat/Rocket.Chat)
